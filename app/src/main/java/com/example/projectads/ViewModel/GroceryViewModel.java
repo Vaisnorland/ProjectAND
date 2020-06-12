@@ -27,10 +27,6 @@ public class GroceryViewModel extends AndroidViewModel {
         repository.insert(grocery);
     }
 
-    public void update(Grocery grocery) {
-        repository.update(grocery);
-    }
-
     public void delete(Grocery grocery) {
         repository.delete(grocery);
     }
