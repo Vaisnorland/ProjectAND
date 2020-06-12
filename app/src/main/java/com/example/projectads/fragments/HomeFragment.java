@@ -17,9 +17,9 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.projectads.AddGroceryActivity;
-import com.example.projectads.Grocery;
-import com.example.projectads.GroceryAdapter;
-import com.example.projectads.GroceryViewModel;
+import com.example.projectads.Model.Grocery;
+import com.example.projectads.fragments.GroceryAdapter;
+import com.example.projectads.ViewModel.GroceryViewModel;
 import com.example.projectads.MainActivity;
 import com.example.projectads.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
