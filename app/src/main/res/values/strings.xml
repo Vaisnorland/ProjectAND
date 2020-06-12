@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grocery Reminder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="grocery_name">Name of grocery</string>
+    <string name="quantity_of_grocery">Quantity:</string>
+    <string name="grocery_item_name">Grocery</string>
+
+</resources>
